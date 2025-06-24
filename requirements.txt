@@ -1,0 +1,3 @@
+airgradient
+influxdb-client
+dotenv
